@@ -143,8 +143,8 @@
 
 | Proveedor | Paquete | Precio PP | Costo Base (45 inv.) | VAT (20%) | Service Fee | **TOTAL ESTIMADO** |
 |---|---|---|---|---|---|---|
-| **Blues** (si cotiza) | Relaxed Wedding Breakfast £47 | £47 | £2,115 | £423 | Kitchen setup fee variable | **~£2,538 + kitchen fee** ⚠️ |
-| **Blues** (cobrado como 70) | Ídem | £47 | £3,290 (×70) | £658 | Kitchen setup fee | **~£3,948 + kitchen fee** |
+| **Blues** (si cotiza) | Relaxed Wedding Breakfast £47 | £47 | £2,115 | £423 | Kitchen setup fee (~£300-£500) | **~£2,838 – £3,038** ⚠️ |
+| **Blues** (cobrado como 70) | Ídem | £47 | £3,290 (×70) | £658 | Kitchen setup fee (~£300-£500) | **~£4,248 – £4,448** |
 | **Nomad** | Bespoke completo | ~£80 est. | £3,600 | £720 | Incluido | **~£4,320** |
 | **Purple Chilli** Bronze | Bronze £48 | £48 | £2,160 | £432 | £499+VAT (£599) | **~£3,191** |
 | **Purple Chilli** (cobrado ×60) | Bronze £48 | £48 | £2,880 (×60) | £576 | £499+VAT (£599) | **~£4,055** |
@@ -157,7 +157,7 @@
 
 | Proveedor | Paquete | Precio PP | Costo (45) | VAT | Extras/Fees | **TOTAL** |
 |---|---|---|---|---|---|---|
-| **Blues** (si cotiza) | All Day Feast £65 | £65 | £2,925 | £585 | Kitchen fee | **~£3,510+** |
+| **Blues** (si cotiza) | All Day Feast £65 | £65 | £2,925 | £585 | Kitchen fee (~£300-£500) | **~£3,810 – £4,010** |
 | **Nomad** | Bespoke + evening | ~£95 est. | £4,275 | £855 | Incluido | **~£5,130** |
 | **Purple Chilli** Gold | Gold £68 | £68 | £3,060 | £612 | £599 | **~£4,271** |
 | **Bradshaws** £61+evening | £61 + £15.75 | £76.75 | £3,454 | £691 | Incluido | **~£4,145** |
@@ -167,7 +167,7 @@
 
 | Proveedor | Precio PP real (incl. VAT + fees, sin evening) | Precio PP real (incl. VAT + fees, con evening) |
 |---|---|---|
-| **Blues** | ~£56.40 (si cotiza para 45) ó ~£56.40 (cobrado ×70) | ~£78.00 (si cotiza para 45) |
+| **Blues** | ~£63-£67 (si cotiza para 45, con kitchen fee) ó ~£94-£99 (cobrado ×70, dividido entre 45) | ~£78.00 (si cotiza para 45) |
 | **Nomad** | ~£96.00 estimado | ~£114.00 estimado |
 | **Purple Chilli** Bronze | ~£70.91 (con service fee prorrateado a 45) | — |
 | **Purple Chilli** Silver | ~£80.51 | — |
@@ -302,7 +302,7 @@
 | **GF Meat options** | Seared Steak Skewers (adaptable), Chicken Skewers (sin pan) | Lamb Shawarma (sin flatbread), Sweet Potato Bhaji | Potato rösti w/ chorizo (si GF), Katsu chicken (sin breadcrumb=no) | Mini Yorkshire Pudding (GF ✅), Cumberland Sausage (gf available) |
 | **GF Veg options** | Halloumi Fries (adaptable), Mushroom Tostada (corn base=GF) | Baby Spinach Arancini (fried rice=adaptable), Sweet Potato Bhaji | Butternut squash arancini (rice=can be GF), Sweet potato rosti (ve, can be GF) | Crispy Cauliflower Bites (ve, GF ✅), Thai Risotto Cake (ve, gf available) |
 | **GF Fish options** | Scallop Ceviche (GF), Gin Cured Salmon (con rye cracker=no, adaptable) | Home-Cured Salmon on Blinis (no GF) | Blini w/ tuna (no GF), Seared scallop (GF si sin breadcrumb) | Mini Fishcakes (no GF), Home Smoked Salmon (gf available) |
-| **Contienen nueces ❌** | Chicken Peanut Skewers, Beetroot/hazelnut items | Pistachio items, Walnut items, Pecan items | Dukkah items, Walnut items | Chicken Satay (PEANUT), Parmesan Sable (pistachio) |
+| **⚠️ Contienen nueces — EXCLUIR** | Chicken Peanut Skewers ❌, Beetroot/hazelnut items ❌ | Pistachio items ❌, Walnut items ❌, Pecan items ❌ | Dukkah items ❌, Walnut items ❌ | **Chicken Satay (PEANUT) ❌**, Parmesan Sable (pistachio) ❌ |
 | **Precio canapés** | 3 for £8, 4 for £9, 5 for £10, 6 for £11, 7 for £12 (+VAT) | Incluido en paquete | Incluido en paquete (4 canapés) | Incluido si contratas bebidas |
 | **Cantidad incluida** | Varía por paquete (3-6) | Varía (4-5 típico) | 4 canapés | 4 canapés |
 
@@ -726,7 +726,7 @@ Evening food options (elegir 1):
 | Luxury bespoke | Nomad ~£85 | ~£4,590 | ~£102.00 |
 | Gourmet si negocian | Purple Chilli Silver ×45 | £4,354 | £96.76 |
 | Gourmet pagando ×60 | Purple Chilli Silver ×60 | £5,362 | £119.16 |
-| BBQ pagando ×70 | Blues £47 ×70 | £4,392 | £97.60 |
+| BBQ pagando ×70 | Blues £47 ×70 | £4,248 – £4,448 | £94 – £99 (por 45 comensales) |
 
 ---
 
